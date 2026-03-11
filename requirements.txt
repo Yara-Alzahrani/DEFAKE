@@ -1,0 +1,13 @@
+transformers
+timm
+scikit-image
+opencv-python
+torch
+numpy
+pillow
+scipy
+scikit-learn
+qwen-vl-utils
+accelerate
+kagglehub
+
