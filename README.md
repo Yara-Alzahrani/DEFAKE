@@ -52,6 +52,4 @@ python predict.py --input_dir ./images --output_file results.json
 - GPU with 8GB VRAM recommended
 - First run downloads ~4GB of models
 
-## License
 
-MIT
